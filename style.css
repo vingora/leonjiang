@@ -1,0 +1,13 @@
+.jumbotron {
+  background-color: green;
+}
+
+body {
+  font-family: 'Droid Sans', arial;
+  background-image: url(bluedream.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+
