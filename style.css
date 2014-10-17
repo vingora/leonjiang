@@ -1,0 +1,105 @@
+/* Turn the links red */
+a {
+  color: red;
+}
+
+/* Make the name 36px font and italicized */
+h1 {
+  font-size: 30px;
+  font-style: gulim;
+  font-family: "Shadows Into Light";
+  color:White;
+}
+
+
+h2 {
+  font-size: 50px;
+  color:green;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 30px;
+  color: green;
+}
+
+h5 {
+  color: green;
+  font-size: 30px;
+}
+
+
+/* Put a border around the photo, set it to the right */
+img#kun {
+  border: 1px solid green;
+  border-radius: 9999999px;
+  box-shadow: 10px 3px 1px green;
+  float: left;
+}
+
+#connect {
+  float:right;
+  background-color: grey;
+  width: 200px;
+  margin: 30px auto;
+  padding: 30px;
+  
+}
+
+
+/* Set the font family for the whole document, and add a background image */
+body {
+  font-family: 'Droid Sans', arial;
+  background-image: url(bluedream.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  color:White;
+}
+
+/* Give the paragraphs and lists a 26px line height */
+p, li {
+  line-height: 20px;
+}
+
+/* Make the links purple when I put my mouse over it */
+a:hover {
+  color: white;
+}
+
+/* Make the content of the page "sit on top of" the background */
+#jiang {
+  background-color: black;
+  width: 1000px;
+  margin: 30px auto;
+  padding: 30px;
+  color:White;
+}
+
+#skills {
+  background-color: grey;
+  color: green;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+#hobbies {
+  background-color: grey;
+  color: green;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+/* Make it so you can see the footer and center it */
+#footer {
+  color: white;
+  margin: 20px auto;
+  text-align: center;
+}
+
+
+
+
